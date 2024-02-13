@@ -1,4 +1,4 @@
-package demo;
+package main.java;
 
 public class demoClass {
 	
